@@ -1,1 +1,1 @@
-docker run -rm -it lalu:latest
+docker run --rm -it lalu:latest

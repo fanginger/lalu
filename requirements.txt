@@ -59,12 +59,8 @@ rsa==3.4.2
 s3transfer==0.2.1
 scipy==1.2.1
 six==1.14.0
-snownlp==0.12.3
 SoundFile==0.10.2
 sqlparse==0.3.0
-tensorboard==1.13.1
-tensorflow==1.13.2
-tensorflow-estimator==1.13.0
 termcolor==1.1.0
 tzlocal==2.0.0
 urllib3==1.25.7
