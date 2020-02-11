@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "halogen-goods-259604",
+  "private_key_id": "4f4067fc1229529d12a1f07365d455c3cdd2b43f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdJwC3LM5fcvv6\nmp9tF4FO2HRRirgmvXtuamSwTj8GQEt+GlUpfP/KF0+2ShZF24TmaoBWPoqeutKp\nCwD7MOfUz/dQZ/4cwUJflwvi5GF+3IwCU9H5SMXQOM+yWzcZknqLbbO9HufQgo/o\nd6pi2ewYpAxru/LTzotCuIfpRi67oI7LnEunt2e4n30GI44iJ+K1o5i/OrhcdP+b\n0pNMxrMihYoQ0AHuWQiISdiwvRw2XwaeNjzAhV5KQAjAbAUHn0IBjB3YcX3DL5a5\neIMCByKJVhcSQLDVh/EM5LbNQA8yCquc3qBG5f7bBpIvddhRuhrP01FmT+B1FERY\nNGqJdFVjAgMBAAECggEAP0zHJScTiPmKC1CPunOEZROKs75PeHM67b9RQ6+Z1Ym4\nsgcKgj4PnwIuJECvgF5Ve3hXdJghKE7UNmN6a+uzJ9RA90hU0Vk1zNOYqOBy0ZOC\nFbZ1PvOn/zILrQLz0gN9xQPo8wRyGNoOI92ArRuwOttV3M5msl6HuNjFui0G+lfx\nhtfdOm6nsa5SyAYx/EXCrIqldG97SQdzSjxOmC6ee2FhZTsHxt2P7DRxTNXpFSQT\nYRVTJM859pz6T4jSPMXhoFYt/S0e0cHljESOE+7Al3U4I6tkUPKtO1BXSxcZOJ8G\nMS6kFe3ZQuW5gG+/Q+sFgk1Y012Wm5mX4NcjDsKb6QKBgQD/tFWBGwj2zIKEtdQ3\nb9ZIpdI2WqGy3H+bTSic37m/9JtxmCPE1uSX+pU5EqwRUYk4frFb+BrpOiBCpBYU\n5cVUA4oTN032G5QkvtFch6w8S3ZSNgrBFxb5kpPljvwZ5gsbMBEOrgdNfIWn3jPz\nHjZ7slP992kMLFTEXoilZgaCaQKBgQDdaHHFnK8tI6EoIOnn9sv5+8QQlYKOJgjH\nsmjauPCADVHyVTmw81ODEa6gIdqsZnzcD78666JTMWWLwxvdnlwCQVh8JD0VkPTy\nJOA0TXxOqPPCvxSXAyldUBxj7/WpBtvG7cxQ/ZfzRJL+CQwFPFOHrbxsJTHSF1s1\nEuXD1+PH6wKBgQDQu2rY+zK0FHmuz6cuodKwdvxEdnNsyGY6Zh/y/wZoVcrWTbVV\nJ35vOZS6hC2F7aMwROuPAdcl79cJz1xfLrmIPWNnEExJzHWAEWxiNjY4+fjaX1ck\nDC8rB6ZHTBMrKQiD5xblftZjQHTydYa+vTkIfKfntyE/WKjRq8GsEr7ZkQKBgFl8\ndT9hbIvZ8rC9XMycOyT2VPA+/V1mkfXkbey5Ars+pvhC6eZS8lXvN50REcjMQ3rO\nAoRV6G2ncVtjqEeSUa23q4PBQc8Nn3Ke5N8+0hcYwizb/f5rELTeRBtASRHf68Qj\nKIkzdc6k0KRME8ep8jjMR3OONOys8/gngyX8g9uxAoGBAMjGnFeZX6I5dzw7/jFK\n65X7siDqg61Y9hzh5YupDx591QroAVs6bs0ApJzPKSna8JhaUwlNoeO6FffR260X\nwsGbyhCxbpzaPdg5d/aT29n783AWXDjPKcNqr5gLwGFTtDaalu4qHlhsfBD1koZ1\n4XSXlDKdjLgRMPLEDyeJmh6D\n-----END PRIVATE KEY-----\n",
+  "client_email": "fan-74@halogen-goods-259604.iam.gserviceaccount.com",
+  "client_id": "100123301481974316857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fan-74%40halogen-goods-259604.iam.gserviceaccount.com"
+}
