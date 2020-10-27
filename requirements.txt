@@ -13,7 +13,7 @@ chardet==3.0.4
 Click==7.0
 cn2an==0.3.11
 colorama==0.4.1
-cryptography==2.8
+cryptography==3.2
 datefinder==0.7.0
 dateparser==0.7.2
 Django==3.0.2
